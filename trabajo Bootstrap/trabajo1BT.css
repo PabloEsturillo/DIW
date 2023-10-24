@@ -1,0 +1,21 @@
+#otra{
+    background-color: rgb(0, 89, 255);
+    height:340px;
+}
+
+#comida{
+    background-color: rgb(111, 172, 177);
+    text-align: left;
+    height:340px;
+}
+
+#rojo{
+    color:rgb(173, 7, 7);
+    background-color: rgb(220, 114, 114);
+}
+
+@media (max-width:768px){
+    #tomate{
+        display:none;
+    }
+}
